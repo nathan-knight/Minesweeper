@@ -1,0 +1,12 @@
+5:5:1:16nknight:6
+9:9:5:16nknight:5
+10:10:10:16nknight:33
+3:3:1:16nknight:2
+20:20:10:16nknight:2
+4:4:2:16nknight:5
+5:5:2:16nknight:0
+9:9:1:16nknight:0
+3:3:2:16nknight:1
+4:4:8:16nknight:17
+15:15:15:16nknight:31
+9:9:10:16nknight:16
